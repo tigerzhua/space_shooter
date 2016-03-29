@@ -1,0 +1,26 @@
+##hp,armor,fire_power,size,heal,mass,type,special_effect,texture
+
+test_gun
+{10 0 50 SMALL 0 35.5 GUN -1 NONE}
+
+test_goods
+{10 0 50 SMALL 0 35.5 GUN -1 NONE}
+
+test_armor
+{}
+test_cabin
+{}
+test_item_0
+{}
+test_item_0
+{}
+test_item_1
+{}
+test_item_2
+{}
+test_item_3
+{}
+test_item_4
+{}
+test_item_5
+{}

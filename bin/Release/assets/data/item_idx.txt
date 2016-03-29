@@ -1,0 +1,11 @@
+test_gun
+test_goods
+test_armor
+test_cabin
+test_item_0
+test_item_0
+test_item_1
+test_item_2
+test_item_3
+test_item_4
+test_item_5
